@@ -43,5 +43,3 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 		} 
 	});
 });
-	});
-});
